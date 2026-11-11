@@ -1,0 +1,14 @@
+{
+  "name": "kva-hackathon",
+  "description": "Plugins for the KVA hackathon of 14 November 2026",
+  "owner": {
+    "name": "Kakashi Ventures"
+  },
+  "plugins": [
+    {
+      "name": "8hack",
+      "source": "./plugins/8hack",
+      "description": "Hackathon co-pilot skill and the Control8 MCP server for the 14 November 2026 event"
+    }
+  ]
+}

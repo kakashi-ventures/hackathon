@@ -1,0 +1,1 @@
+{ "mcpServers": { "hack": { "type": "http", "url": "https://c8-hackathon.kakashi.ventures/api/mcp" } } }
