@@ -13,6 +13,7 @@ Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first of the ten
 ║  PLACES    70, in person only
 ║  ENTRY     Free, no entry fee
 ║  PRIZES    €1,500 prize pool
+║  APPLY BY  12 December 2026, 23:59
 ║  VERTICAL  Robotics & Physical AI
 ╚════════════════════════════════════════════════════════
 ```
