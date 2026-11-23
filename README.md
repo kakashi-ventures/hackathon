@@ -30,7 +30,7 @@ The challenge is to build AI that lets people and robots learn from each other a
 A robot has to see and understand the place where it works. It has to learn from the people who work there.
 Those people decide what it records and what it does. Each team picks one track and builds a working prototype.
 
-Each team picks one of eight tracks:
+The eight tracks:
 
 | Axis | Track |
 |---|---|
