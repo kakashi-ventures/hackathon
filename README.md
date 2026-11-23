@@ -1,4 +1,4 @@
-# Hack the Future · AI and robots
+# Hack the Future · Robotics & Physical AI
 
 On 19 December 2026 teams meet at OGR Torino to build embodied AI: AI that sees the world, takes instructions in plain words and moves a robot next to people.
 Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first stage of Hack the Future, a programme of ten hackathons.
