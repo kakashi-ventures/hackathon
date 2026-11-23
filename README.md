@@ -1,7 +1,7 @@
 # Hack the Future · Robotics & Physical AI
 
-On 19 December 2026 teams meet at OGR Torino to build embodied AI: AI that sees the world, takes instructions in plain words and moves a robot next to people.
-Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first stage of Hack the Future, a programme of ten hackathons.
+On 19 December 2026 teams meet at OGR Torino to build AI that learns a skilled job from people and works next to them.
+Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first of the ten hackathons of Hack the Future.
 
 **[Apply](https://www.kakashi.ventures/en/hackathon)**
 
@@ -12,6 +12,7 @@ Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first stage of H
 ║  VENUE     OGR Torino, Corso Castelfidardo 22, Turin
 ║  PLACES    70, in person only
 ║  ENTRY     Free, no entry fee
+║  PRIZES    €1,500 prize pool
 ║  VERTICAL  Robotics & Physical AI
 ╚════════════════════════════════════════════════════════
 ```
@@ -22,7 +23,7 @@ Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first stage of H
 
 Robots have started to learn the way language models did.
 Models that read images and text now also move robot arms. An arm can follow an instruction in plain words.
-Labs share more than a million recorded robot episodes, and an open-source arm costs a few hundred euros.
+Labs share more than a million recorded robot episodes. An open-source arm costs a few hundred euros.
 
 A robot learns a task from recordings of someone doing it.
 The challenge is to record how a person does a skilled job so that a new colleague or a robot can learn it and work next to them.
