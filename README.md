@@ -23,12 +23,12 @@ Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first of the ten
 ### Learn. Work. Together.
 
 Robots have started to learn the way language models did.
-Models that read images and text now also move robot arms. An arm can follow an instruction in plain words.
+Models that read images and text now also move robot arms. They follow instructions in plain words.
 Labs share more than a million recorded robot episodes. An open-source arm costs a few hundred euros.
 
-A robot learns a task from recordings of someone doing it.
-The challenge is to record how a person does a skilled job so that a new colleague or a robot can learn it and work next to them.
-The person who does the job decides what is recorded, who can use it and for what.
+The challenge is to build AI that lets people and robots learn from each other and work side by side.
+A robot has to see and understand the place where it works. It has to learn from the people who work there.
+Those people decide what it records and what it does. Each team picks one track and builds a working prototype.
 
 Each team picks one of eight tracks:
 
