@@ -1,3 +1,5 @@
+> **Archive.** Edition of 14 November 2026, rules as they applied that day. The next edition is in the [main README](../README.md).
+
 # Rules · AI brain for industry
 
 These rules govern the hackathon "AI brain for industry", held on Saturday 14 November 2026. Applying to the hackathon means accepting them.
