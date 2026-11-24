@@ -26,19 +26,6 @@ Robots have started to learn with the methods of large language models.
 Models that read images and text turn a written instruction into the movements of a robot arm.
 An arm that costs a few hundred euros can now work next to a person as a colleague. It can take on tasks that until now only a person could do.
 
-Each team picks one of eight tracks:
-
-| Axis | Track |
-|---|---|
-| Ingestion | Video, hands and voice of the person at work |
-| Ontology | Steps, tools and checks of a job |
-| Memory | Every way a job has been done |
-| Visualisation | Instructions a new colleague can follow |
-| Decision | Spotting a wrong step as it happens |
-| Privacy | The worker decides what is recorded |
-| Evaluation | A benchmark of steps and mistakes |
-| Repackaging | Training data for robots, with the worker's consent |
-
 ## How it works
 
 - **Before.** Before the event you get the challenge and, for your track, the data, the benchmarks and the papers to read.
