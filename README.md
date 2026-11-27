@@ -1,6 +1,6 @@
 # Hack the Future · Robotics & Physical AI
 
-On 19 December 2026 teams meet at OGR Torino to build AI that learns a skilled job from people and works next to them.
+On 19 December 2026 teams meet at OGR Torino to build AI that learns a skilled job from people and works next to them. Hack the Future is organised by KVA in collaboration with OGR Torino.
 Kakashi Venture Accelerator (KVA) runs the hackathon. It is the first of the ten hackathons of Hack the Future.
 
 **[Apply](https://www.kakashi.ventures/en/hackathon)**
@@ -56,7 +56,7 @@ We publish the rules of this edition here before the event.
 
 ## FAQ
 
-**Can I take part online?** No. You take part in person at OGR.
+**Can I take part online?** No. You take part in person at OGR Torino.
 
 **Do I need to know how to code?** No. A team also needs people who do not code.
 
